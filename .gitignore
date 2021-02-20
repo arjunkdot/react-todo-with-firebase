@@ -12,6 +12,7 @@ See https://help.github.com/articles/ignoring-files/ for more about ignoring fil
 /build
 
 # misc
+/src/firebase_config.js
 .DS_Store
 .env.local
 .env.development.local
